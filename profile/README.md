@@ -2,26 +2,10 @@
 
 ## 👨‍💻 <a href="https://sig9.ch" target="_blank">sig9.ch</a> 👩‍💻
 
-Looking for a reliable and experienced IT consulting firm?
+At sig9, we provide pragmatic solutions to enhance the security of IT infrastructures, products, and assets.
 
-At sig9, we offer pragmatic, no-nonsense approaches to improve the design and security of your IT infrastructure, products, and assets.
+Our expertise spans risk and vulnerability assessments, penetration testing, code audits, as well as the design of key ceremonies, secrets management, and other critical processes.
 
-Our team provide clear, targeted actions and services, including vulnerability assessments, black box or white box penetration testing, code reviews, risk and secrets management, monitoring of critical assets, incident response, and security trainings. We also help companies design and develop secure software and safety critical systems.
+We also assist and coordinate teams directly on the ground, in both refining the design and reviewing the development of secure software and operations.
 
-Do you have any questions?
-
-Do you want to test the security of your infrastructure or product, or need help designing and building one?
-
-Contact us using the contact form in our website **sig9.ch** or via email at **info@sig9.ch** to schedule a free initial consultation!
-
-### Expertise
-
-👨‍💻 Software & Infrastructure Design
-
-🏴‍☠️ IT Security Audits, Pentests & Code Reviews
-
-⛓ Bitcoin, Blockchain Technology & Web3
-
-🔐 Key Ceremonies & Secrets Management
-
-🔍 Blockchain Intelligence
+Whether you're looking to test your product’s security or add an external reviewer to your development process, don’t hesitate to contact us via the contact form in our website **sig9.ch** or via email at **info@sig9.ch**. We’ll be happy to schedule a free initial consultation and assess your needs.
